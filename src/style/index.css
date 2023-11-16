@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'bahamas';
+    src: url('./fonts/BahamasTwoPersonalUseBold-ywEVq.ttf');
+}
+@font-face {
+    font-family: 'bahamas';
+    src: url('./fonts/BahamasTwoPersonalUseBold-ywEVq.ttf');
+}
+@font-face {
+    font-family: 'Bebas';
+    src: url('./fonts/BebasNeue-Regular.ttf');
+}
+
+
+@font-face {
+    font-family: 'instinto';
+    src: url('./fonts/InstintoBold-62Kx.ttf');
+    /* Add other font properties if necessary */
+}
+.font-bahamas{
+    font-family: 'bahamas';
+}
+
+.font-instinto{
+    font-family: 'instinto' ;
+}
+.font-lora{
+    font-family: 'lora';
+}
+.font-bebas{
+    font-family: 'Bebas';
+}
