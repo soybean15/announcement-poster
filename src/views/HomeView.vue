@@ -16,7 +16,7 @@
     </div>
 
     <div class="absolute bottom-5 right-5 text-green-900">
-        www.ecosia.org
+        www.bsit4a.net
     </div>
   </div>
 </template>
