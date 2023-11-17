@@ -3,5 +3,6 @@ module.exports = defineConfig({
   publicPath: process.env.NODE_ENV === 'production'
   ? '/announcement-poster/'
   : '/',
+  outputDir: 'dist',
   transpileDependencies: true
 })
